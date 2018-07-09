@@ -1,6 +1,7 @@
 # Caffe学习（一）：使用LeNet训练MNIST数据
 
 系统为Ubuntu 18.04，Caffe用的是编译好的，使用apt安装
+本次使用CPU进行训练
 
 代码参考caffe/examples/mnist下的代码
 
